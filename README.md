@@ -19,7 +19,8 @@ Backend And Faster RPS Apps Using Go Lang
 
 ##  Current Projects
 
-- **Mess Reviews Portal For >10000 Students with concurrent requests- Backend & Dashboard**
+- **UniMessPortal :- Mess Reviews Portal For >10000 Students with concurrent requests- Backend & Dashboard for VIT-AP**
+- **OpenLinear :- The AI Workforce Manager(Don't just code. Orchestrate)**
 - **TRAQ:- Project Being Built for IIIT NETRIK, Using Yolo and IMG REKOGNITION - Api & Backend**
 - **Few More NDA Stay tuned to [Linkedin](https://www.linkedin.com/in/sri-harsha-tummalapalli/)**
 
