@@ -2,7 +2,7 @@
 
 Dev With MERN Using Typescript,JS
 
-Backend And Faster RPS Apps Using Go Language
+Backend And Faster RPS Apps Using Go Lang
 
 ## Dev Stack
 
