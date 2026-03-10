@@ -1,4 +1,6 @@
-# Hey, Harsha here 🥤
+# Hey, Harsha here 
+
+Founder and CTO @NeoLabsHQ
 
 Dev With MERN Using Typescript,JS
 
