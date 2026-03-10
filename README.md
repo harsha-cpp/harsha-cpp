@@ -1,9 +1,12 @@
 # Hey, Harsha here 
+![GitHub Streak](https://streak-stats.demolab.com?user=harsha-cpp&theme=nord)
 
-Founder and CTO ![Neo Labs](https://github.com/neolabshq)
+## Founder and CTO ![Neo Labs](https://github.com/neolabshq)
 
 Typescript/GoLang Developer
+
 Scalable Architechure Devops
+
 Cloud Infrastructures :- Amazon Web Services/Azure
 
 ## Development Stack
