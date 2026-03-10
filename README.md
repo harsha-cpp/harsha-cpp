@@ -1,6 +1,6 @@
 # Hey, Harsha here 
 
-Founder and CTO ![https://github.com/neolabshq]
+Founder and CTO ![Neo Labs](https://github.com/neolabshq)
 
 Dev With MERN Using Typescript,JS
 
