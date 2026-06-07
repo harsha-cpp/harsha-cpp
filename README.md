@@ -9,7 +9,7 @@ Scalable Architechure Devops
 
 Cloud Infrastructures :- Amazon Web Services/Azure
 
-## Development Stack
+## Contributions
 
 ## Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
