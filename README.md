@@ -10,7 +10,10 @@ Scalable Architechure Devops
 Cloud Infrastructures :- Amazon Web Services/Azure
 
 ## Contributions
-![biome](https://github.com/biomejs)
+![biomeJS](https://github.com/biomejs)
+![facebook/yoga](https://github.com/facebook/yoga)
+
+
 
 
 ## Languages
