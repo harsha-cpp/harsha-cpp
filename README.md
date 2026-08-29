@@ -58,4 +58,4 @@ Cloud Infrastructures :- Amazon Web Services/Azure
 📫 Reach me: sriharshatummalapalli@gmail.com
 
 🌐 Portfolio :- [Click Here
-](https://harshatummalapalli.tech/)
+](https://harsha16x.in)
