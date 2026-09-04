@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=88C0D0&center=true&vCenter=true&width=520&lines=harsha-cpp;" alt="typing" />
 
